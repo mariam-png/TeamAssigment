@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(31, 80, 154);
+}
+h1, h2{
+    background-color: rgb(10, 57, 129);
+    color:azure;
+    width:550px;
+    border-width:20px;
+    border-color:rgb(10, 57, 129);
+    border-radius:20px;
+}
+p, ul{
+    background-color: rgb(212, 235, 248);
+    width:550px;
+    border-radius:10px;
+}
+li{
+    font-style:italic;
+}
